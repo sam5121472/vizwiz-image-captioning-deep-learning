@@ -1,12 +1,7 @@
-# 🖼️ VizWiz Image Captioning Deep Learning Project
+#  VizWiz Image Captioning Deep Learning Project
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Image%20Captioning-orange)
-![Dataset](https://img.shields.io/badge/Dataset-VizWiz-green)
-![Notebook](https://img.shields.io/badge/Jupyter-Notebook-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains a complete deep learning project for **image captioning using the VizWiz dataset**.  
 The project focuses on building an intelligent model that can generate meaningful captions for images, especially images captured by visually impaired users.
@@ -15,7 +10,7 @@ The work includes data loading, preprocessing, vocabulary creation, model develo
 
 ---
 
-## 🎯 Aim of the Project
+##  Aim of the Project
 
 The main aim of this project is to develop and evaluate an image captioning system that can automatically describe visual content in natural language.
 
@@ -28,7 +23,7 @@ The VizWiz dataset makes this task more realistic and challenging because many i
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 ✅ Data loading and exploration  
 ✅ Caption preprocessing and cleaning  
@@ -42,7 +37,7 @@ The VizWiz dataset makes this task more realistic and challenging because many i
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 vizwiz-image-captioning-deep-learning/
@@ -66,7 +61,7 @@ vizwiz-image-captioning-deep-learning/
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The project is based on the **VizWiz image captioning dataset**, which contains images taken by blind or visually impaired people along with corresponding captions.
 
@@ -82,7 +77,7 @@ This makes the dataset useful for developing assistive AI technologies.
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -97,7 +92,7 @@ This makes the dataset useful for developing assistive AI technologies.
 
 ---
 
-## 🏗️ Methodology
+##  Methodology
 
 The project follows a complete deep learning workflow.
 
@@ -135,7 +130,7 @@ The model outputs were evaluated using generated captions, training performance,
 
 ---
 
-## 📈 Outputs and Visual Results
+##  Outputs and Visual Results
 
 The project includes outputs such as:
 
@@ -150,21 +145,21 @@ These outputs help understand how well the model learned and where improvements 
 
 ---
 
-## 🧪 Project Notebooks
+## Project Notebooks
 
-### 📘 `Loading Data.ipynb`
+###  `Loading Data.ipynb`
 
 This notebook contains the initial dataset loading and preparation steps.  
 It includes data exploration, annotation loading, and basic preprocessing.
 
-### 📗 `phase-2-and-3-faisal-shoaib.ipynb`
+###  `phase-2-and-3-faisal-shoaib.ipynb`
 
 This notebook contains the major deep learning work for Phase 2 and Phase 3.  
 It includes model implementation, training, evaluation, outputs, graphs, and improvements.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Clone the Repository
 
@@ -228,7 +223,7 @@ Future work can improve the project by:
 
 ---
 
-## 📄 Final Report
+##  Final Report
 
 A complete report/article paper is included in the project.  
 The report contains methodology, outputs, plots, graphs, discussion, evaluation, limitations, and conclusion.
@@ -237,7 +232,7 @@ The report contains methodology, outputs, plots, graphs, discussion, evaluation,
 
 ---
 
-## 👨‍💻 Author / Contributor
+##  Author / Contributor
 
 **Project:** VizWiz Image Captioning Deep Learning Project  
 **Publisher:** Sameer Hassan Khan  
