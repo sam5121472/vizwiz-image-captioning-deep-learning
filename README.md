@@ -152,7 +152,7 @@ These outputs help understand how well the model learned and where improvements 
 This notebook contains the initial dataset loading and preparation steps.  
 It includes data exploration, annotation loading, and basic preprocessing.
 
-###  `phase-2-and-3-faisal-shoaib.ipynb`
+###  `EfficientNet-B4 with Transformer Decoding versus EfficientNet-B4 with LSTM and Bahdanau Attention.ipynb`
 
 This notebook contains the major deep learning work for Phase 2 and Phase 3.  
 It includes model implementation, training, evaluation, outputs, graphs, and improvements.
